@@ -1,4 +1,4 @@
-# Análisis de distrbución de dataset de Diamonds
+# Análisis de distribución de dataset de Diamonds
 
 Estudio del ajuste de distribuciones estadísticas de datos para algunas columnas del dataset de Diamonds (https://ggplot2.tidyverse.org/reference/diamonds.html)
 
