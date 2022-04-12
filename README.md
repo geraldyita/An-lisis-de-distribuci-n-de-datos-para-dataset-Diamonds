@@ -1,1 +1,1 @@
-# An-lisis-de-distribuci-n-de-datos-para-dataset-Diamonds
+# An-lisis-de-distribución-de-datos-para-dataset-Diamonds
